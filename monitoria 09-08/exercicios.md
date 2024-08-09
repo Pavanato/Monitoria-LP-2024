@@ -17,7 +17,7 @@ Se o usuário digitar:
     * 'q', o programa deve sair.
     * Caso contrário, dizer que entrada é invalida.
 
-# Exercícios Funções 1
+# Exercícios Funções
 
 1. Escreva uma função chamada ```exibir_info``` que recebe três parâmetros: ```nome```, ```idade``` e ```cidade```.
 Esses parâmetros devem ter valores padrão de uma string vazia.
@@ -44,7 +44,7 @@ Se nenhum nome for fornecido, ele deve ser padrão para "Usuário".
     b. Qual é o impacto da chamada da função ```trocar_palavra``` na variavel ```palavra```?\
     c. Quais outros tipos de dados possuem um comportamento similar? e quais possuem um comportamento diferente?
 
-# Exercícios Funções 2
+# Exercícios Args e Kwargs
 
 1. Escreva uma função chamada ```calcular_media``` que recebe o nome do aluno e uma quantidade arbitrária de notas.
 Dentro da função, calcule a média das notas passadas.
@@ -54,7 +54,7 @@ Exiba um texto que formate o resultado no formato: ```"O aluno [nome] teve médi
 Dentro da função, construa um dicionário onde as chaves são os nomes dos argumentos e os valores são os valores correspondentes passados para a função. 
 Exiba este dicionário ao final da função.
 
-# Exercícios Funções 3
+# Exercícios Retorno de Funções
 
 1. Escreva uma função chamada ```calcular_quadrado``` que recebe um único parâmetro ```num```.
 Dentro da função, calcule o quadrado de num e retorne-o.
@@ -67,7 +67,7 @@ Retorne estes valores como uma tupla (área, perímetro).
 Dentro da função, verifique se o número é par ou ímpar.
 Se for par, retorne a string "Par", caso contrário, retorne "Ímpar".
 
-# Exercícios Funções 4
+# Exercícios Escopo de Variáveis
 
 1. Escreva um programa que contenha uma função chamada ```contar_chamadas``` que incrementa um contador global a cada vez que é chamada.
 Em seguida, chame a função várias vezes e imprima o valor do contador.
