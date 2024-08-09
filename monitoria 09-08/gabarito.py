@@ -30,8 +30,6 @@ def fib2(n):
 
         print(f"O {i + 1}-ésimo termo é {f1}")
 
-def troca_lista(list):
-    list[0], list[-1]
 
 # Classificação de notas
 
